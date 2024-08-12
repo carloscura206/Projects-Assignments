@@ -1,0 +1,14 @@
+name: a4-climage-change-carloscura206
+title: a4-climage-change-carloscura206
+username:
+account: carloscura
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6392731
+bundleId: 5969613
+url: https://carloscura.shinyapps.io/a4-climage-change-carloscura206/
+when: 1654126574.31292
+lastSyncTime: 1654126574.31294
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|.RData|LICENSE|README.md
